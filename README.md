@@ -6,7 +6,7 @@ Kumpulan panduan praktis, potongan perintah *Command Line Interface* (CLI), sert
 
 Berikut adalah beberapa modul panduan yang tersedia di dalam repositori ini:
 
-* **[WIFI.md](WIFI.md)** – Panduan lengkap memindahkan atau menghubungkan jaringan WiFi via terminal menggunakan `wpa_supplicant`[cite: 1].
+* **[Cara Pindah ke Jaringan WiFi Baru.md](Cara Pindah ke Jaringan WiFi Baru.md)** – Panduan lengkap memindahkan atau menghubungkan jaringan WiFi via terminal menggunakan `wpa_supplicant`[cite: 1].
 * *(Segera Bertambah)* – Kumpulan skrip dan utilitas sistem lainnya.
 
 ---
